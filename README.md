@@ -6,7 +6,6 @@ About Me
 - 🏳️‍🌈 pilar, a space for queer cybersecurity peeps
 - security research
 
-I shared my career pivot into cybersecurity at BSidesMelbourne 2022 ⬇️
 
 
 
