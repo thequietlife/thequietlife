@@ -2,7 +2,7 @@ Hey 👋
 
 About Me
 
-- QA at Cydarm
+- Quality at Cydarm
 - 🏳️‍🌈 pilar, a space for LGBTIQA+ cybersecurity peeps
 - security research
 
