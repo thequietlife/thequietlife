@@ -3,8 +3,9 @@ Hey 👋
 About Me
 
 - Quality at Cydarm
-- 🏳️‍⚧️ 🏳️‍🌈 pilar, a space for LGBTIQA+ cybersecurity peeps
-- security research
+- Created 🏳️‍⚧️ 🏳️‍🌈 pilar, a space for LGBTIQA+ cybersecurity peeps
+- Security Research
+- Tinkerer
 
 
 
