@@ -2,8 +2,8 @@
 about me
 
 - 🐛 security research
-- 🪛 tinkerer
 - ⚔️ threat intelligence
+- 🪛 tinkerer
 - 🏳️‍⚧️ 🏳️‍🌈 pilar, a space for LGBTIQA+ cybersecurity peeps
 
 
