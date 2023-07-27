@@ -1,7 +1,7 @@
 
 about me
 
-- 🐛 security research
+🐛 security research
 
 
 
