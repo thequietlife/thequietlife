@@ -1,6 +1,4 @@
 
-about me
-
 🐛 security research
 
 
