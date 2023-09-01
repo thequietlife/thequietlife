@@ -1,5 +1,5 @@
 
-🐛 security research
+🐛 responsible security research
 
 
 
