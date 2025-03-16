@@ -6,7 +6,7 @@ ____________
 
 ### 🗺️ My Community Projects:
 
-* 🍿 📺 📚 Crowdsourced lists of [hacker movies, tv shows and books](https://github.com/hacker-playlists)
+* 🍿 📺 📚 [Crowdsourced lists of hacker movies, tv shows and books](https://github.com/hacker-playlists)
 * 🏳️‍⚧️ 🏳️‍🌈 [pilar - a community for LGBTIQA+ cybersecurity peeps](https://github.com/thequietlife/pilar)
 ____________
 
