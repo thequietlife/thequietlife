@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there: 👋
 * 🌱 I’m currently learning how to analyse phishing texts and emails
 * 💬 Ask me about [setting up a malware analysis lab](https://github.com/thequietlife/malware-analysis)
 * ⚡ Fun fact: I love dogs
