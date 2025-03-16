@@ -1,8 +1,7 @@
 ### Hi there 👋
 * 🌱 I’m currently learning how to analyse phishing texts and emails
 * 💬 Ask me about [setting up a malware analysis lab](https://github.com/thequietlife/malware-analysis)
-* 📫 How to reach me: @thequietlife.io on BlueSky
-* ⚡ Fun fact: Cats are ok but I love dogs
+* ⚡ Fun fact: I love dogs
 ____________
 
 ### 🗺️ My Community Projects:
