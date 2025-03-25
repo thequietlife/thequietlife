@@ -1,7 +1,5 @@
 ### 👋 Hey: 
 * 🧰 Threat research focus areas: phishing analysis, scams, business email compromise
-* 💬 Ask me about [setting up a malware analysis lab](https://github.com/thequietlife/malware-analysis)
-* ⚡ Fun fact: I love dogs
 ____________
 
 ### 🗺️ My Community Projects:
