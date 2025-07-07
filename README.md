@@ -1,5 +1,6 @@
 ### 👋 Hey: 
 * 🧰 Threat research focus areas: phishing analysis, scams, business email compromise
+* 🚧 My home lab
 ____________
 
 ### 🗺️ My Community Projects:
