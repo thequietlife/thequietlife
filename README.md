@@ -1,6 +1,6 @@
 ### 👋 Hey: 
 * 🧰 Threat research focus areas: phishing analysis, scams, business email compromise
-* 🚧 My home lab
+* 🚧 [My home lab](https://thequietlife.io/homelab.html)
 ____________
 
 ### 🗺️ My Community Projects:
