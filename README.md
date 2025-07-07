@@ -1,5 +1,5 @@
 ### 👋 Hey: 
-* 🧰 Threat research focus areas: phishing analysis, scams, business email compromise
+* 🔬 Threat research focus areas: [phishing analysis, scams](https://github.com/thequietlife/phishing-analysis)
 * 🚧 [My home lab](https://thequietlife.io/homelab.html)
 ____________
 
