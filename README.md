@@ -5,6 +5,7 @@ ____________
 
 ### 🗺️ My Community Projects:
 
+* 🧰 [My home lab](https://thequietlife.io/homelab.html)
 * 🎣 [Phishing analysis | Scams](https://github.com/thequietlife/phishing-analysis)
 * 📓 [Cyber Threat Intelligence 101](https://github.com/thequietlife/CTI-101)
 * 📺 📚 [Crowdsourced lists of hacker movies, tv shows and books](https://github.com/hacker-playlists)
