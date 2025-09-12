@@ -1,6 +1,6 @@
 ### 👋 Hey: 
 
-* 🧰 [My home lab](https://thequietlife.io/homelab.html)
+* 🧰 My home lab
 ____________
 
 ### 🗺️ My Community Projects:
