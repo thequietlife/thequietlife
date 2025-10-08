@@ -1,8 +1,5 @@
 ### 👋 Hey: 
 
-* 🧰 🚧 [My home lab](https://github.com/thequietlife/homelab)
-____________
-
 ### 🗺️ My Community Projects:
 
 * 📓 [Cyber Threat Intelligence (CTI) 101](https://github.com/thequietlife/CTI-101)
