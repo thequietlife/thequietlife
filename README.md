@@ -1,4 +1,4 @@
-###  👋 Hey: 
+###  👋 Hey
 
 #### 🗺️ My Community Projects:
 
