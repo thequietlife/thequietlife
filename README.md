@@ -2,7 +2,7 @@
 
 #### 🏗️ My Projects:
 
-* 🚜 [SIM farms](https://github.com/thequietlife/SIM-farms)
+* 🚜 [Mapping SIM farms seized by authorities 2014 - present](https://github.com/thequietlife/SIM-farms)
 * 🧰 🚧 [My homelab](https://github.com/thequietlife/homelab)
 * 🎙️ [My Talks](https://github.com/thequietlife/talks)
 * 🍔 🎮 [Playing Doom on a McDonald's happy meal toy](https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom)
