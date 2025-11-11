@@ -2,7 +2,7 @@
 
 #### 🏗️ My Projects:
 
-* 📓 [Zines](https://github.com/thequietlife/zine)
+* 📓 [Zines](https://github.com/thequietlife/zines)
 * 🧰 🚧 [My Homelab](https://github.com/thequietlife/homelab)
 * 🎙️ [My Talks](https://github.com/thequietlife/talks)
 * 🍔 🎮 [Playing Doom on a McDonald's happy meal toy](https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom)
