@@ -1,4 +1,5 @@
-![tinkering](https://img.shields.io/badge/focus-homelab-blue)
+![tinkering](https://img.shields.io/badge/focus-local%20ai-ff69b4)
+
 <!--
 **thequietlife/thequietlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
